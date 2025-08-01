@@ -1,0 +1,26 @@
+body {
+    background-color: hsl(187, 45%, 20%);
+    color: #fff;
+}
+
+h1 {
+    margin-left: 6%;
+}
+
+ul {
+    width: 80%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+li a:hover {
+    color: grey;
+}
